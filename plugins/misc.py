@@ -208,5 +208,12 @@ async def imdb_callback(bot: Client, query: CallbackQuery):
         await query.message.edit(caption, reply_markup=InlineKeyboardMarkup(btn), disable_web_page_preview=False)
     await query.answer()
         
+# For Sticker id
+@Client.on_message(filters.command(["stickerid"]))
+async def stickerid(bot, message):   
+    if message.reply_to_message.sticker:
+       await message.reply(f"**Your Requested Stickers ID is**  \n `{message.reply_to_message.sticker.file_id}` \n \n ** Unique ID is ** \n\n`{message.reply_to_message.sticker.file_unique_id}`", quote=True)
+    else: 
+       await message.reply("Hey Bitch Its Not A Sticker😒.")
 
         
