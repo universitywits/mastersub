@@ -73,7 +73,9 @@ these are the extra features of Eva Maria
 • /id - <code>get id of a specifed user.</code>
 • /info  - <code>get information about a user.</code>
 • /imdb  - <code>get the film information from IMDb source.</code>
-• /search  - <code>get the film information from various sources.</code>"""
+• /search  - <code>get the film information from various sources.</code>
+• /json - <code>To get Json Of An particular tagged sticker or another anything else.</code>
+"""
     ADMIN_TXT = """Help: <b>Admin mods</b>
 
 <b>NOTE:</b>
