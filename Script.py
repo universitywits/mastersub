@@ -75,6 +75,9 @@ these are the extra features of Eva Maria
 • /imdb  - <code>get the film information from IMDb source.</code>
 • /search  - <code>get the film information from various sources.</code>
 • /json - <code>To get Json Of An particular tagged sticker or another anything else.</code>
+• /telegraph - <code>Upload images and Videos under 5MB on telegra.ph.</code>
+• /song - <code>/song [Song Name] - To Download a Song from YouTube.</code>
+• /stickerid - <code> Reply With a sticker To get its id or You Can use /json Command.</code>
 """
     ADMIN_TXT = """Help: <b>Admin mods</b>
 
