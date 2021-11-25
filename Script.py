@@ -110,3 +110,14 @@ Added By - {}
 ID - <code>{}</code>
 Name - {}
 """
+    FUN_TXT = """
+ FUN MODULE 
+    
+🎲 NOTHING MUCH JUST SOME FUN THINGS
+t𝗋𝗒 𝗍𝗁𝗂𝗌 𝖮𝗎𝗍: 
+𝟣. /dice - <code>Roll The Dice.</code>
+𝟤. /Throw 𝗈𝗋 /Dart - <code>𝖳𝗈 𝖬𝖺𝗄𝖾 Drat.</code>
+3. /Runs - <code>Jokes In Malayalam ( Not Really Jokes, But Feel Free To Use).</code>
+4. /Goal or /Shoot - <code>To Make A Goal Or Shoot.</code>
+"""
+    
