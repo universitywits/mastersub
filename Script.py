@@ -120,4 +120,15 @@ t𝗋𝗒 𝗍𝗁𝗂𝗌 𝖮𝗎𝗍:
 3. /Runs - <code>Jokes In Malayalam ( Not Really Jokes, But Feel Free To Use).</code>
 4. /Goal or /Shoot - <code>To Make A Goal Or Shoot.</code>
 """
+    GMISC_TXT = """ <b>These Commands Are For Group Admins.<b>
+<b>Commands and Usage:</b>
+• /pin - To pin A messge on group. 
+• /unpin - To Unpin A message On Group. 
+• /mute - 𝖬𝗎𝗍𝖾 𝖠 𝖴𝗌𝖾𝗋 
+• /tmute - 𝖳𝖾𝗆𝗉𝗈𝗋𝖺𝗋𝗂𝗅𝗒 𝖬𝗎𝗍𝖾 𝖺 𝗎𝗌𝖾𝗋. 𝖤𝗑𝖺𝗆𝗉𝗅𝖾 𝗍𝗂𝗆𝖾 𝗏𝖺𝗅𝗎𝖾𝗌: 𝟦𝗆 = 𝟦 𝗆𝗂𝗇𝗎𝗍𝖾𝗌, 𝟥𝗁 = 𝟥 𝗁𝗈𝗎𝗋𝗌, 𝟨𝖽 = 𝟨 𝖽𝖺𝗒𝗌, 𝟧𝗐 = 𝟧 𝗐𝖾𝖾𝗄𝗌. 
+• /unmute - 𝖴𝗇mute 𝖺 𝗎𝗌𝖾𝗋.  
+𝖤𝗑𝖺𝗆𝗉𝗅𝖾𝗌:
+• 𝖬𝗎𝗍𝖾 𝖺 𝗎𝗌𝖾𝗋 𝖿𝗈𝗋 𝗍𝗐𝗈 𝗁𝗈𝗎𝗋𝗌. 
+-> /tmute @𝗎𝗌𝖾𝗋𝗇𝖺𝗆𝖾 𝟤𝗁
+"""
     
