@@ -131,4 +131,8 @@ t𝗋𝗒 𝗍𝗁𝗂𝗌 𝖮𝗎𝗍:
 • 𝖬𝗎𝗍𝖾 𝖺 𝗎𝗌𝖾𝗋 𝖿𝗈𝗋 𝗍𝗐𝗈 𝗁𝗈𝗎𝗋𝗌. 
 -> /tmute @𝗎𝗌𝖾𝗋𝗇𝖺𝗆𝖾 𝟤𝗁
 """
+    GTRANS_TXT = """Help: <b>Google Translator</b>
+Translate texts to a specific language!
+<b>Commands and Usage:</b>
+• /tr [language code][reply] - translate replied message to specific language. """
     
