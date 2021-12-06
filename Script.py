@@ -77,6 +77,8 @@ these are the extra features of Eva Maria
 • /json - <code>To get Json Of An particular tagged sticker or another anything else.</code>
 • /telegraph - <code>Upload images and Videos under 5MB on telegra.ph.</code>
 • /song - <code>/song [Song Name] - To Download a Song from YouTube.</code>
+• /video - <code>/video [YouTube link or name] to download video fro youtube.</code>
+• /lyrics - <code>/lyrics [song name] to scrap a song lyrics.</code> 
 • /stickerid - <code> Reply With a sticker To get its id or You Can use /json Command.</code>
 • /paste - <code> To paste link To paste in eg:- /paste [your text].</code>
 """
